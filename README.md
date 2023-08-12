@@ -8,11 +8,10 @@ To-Do List App
 - Description: A dynamic To-Do list application created using Tkinter. This project allows users to effectively manage their tasks, featuring input boxes to enter task titles and descriptions.
 
 - Features:
-
--- Add Task: Seamlessly add new tasks to your list.
--- Update Task: Modify task details with ease.
--- Delete Task: Remove tasks as needed.
--- Mark as Complete: Keep track of completed tasks for better organization.
+  - Add Task: Seamlessly add new tasks to your list.
+  - Update Task: Modify task details with ease.
+  - Delete Task: Remove tasks as needed.
+  - Mark as Complete: Keep track of completed tasks for better organization.
 - Technologies Used: Python, Tkinter (GUI library)
 
 Feel free to explore the code, offer feedback, and learn from the projects I've completed during my CodSoft Python internship. Each project showcases my growth as a programmer and my dedication to mastering Python programming concepts.
