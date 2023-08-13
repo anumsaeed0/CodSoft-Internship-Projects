@@ -12,7 +12,10 @@ A dynamic To-Do list application created using Tkinter. This project allows user
   - **Update Task:** Modify task details with ease.
   - **Delete Task:** Remove tasks as needed.
   - **Mark as Complete:** Keep track of completed tasks for better organization.
-- **Technologies Used:** Python, Tkinter (GUI library)
+
+### Technologies Used:
+  - Python
+  - Tkinter (GUI library)
 
 ## Project 02: Calculator
 
