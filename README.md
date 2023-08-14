@@ -31,6 +31,26 @@ This project is a simple calculator built using the `tkinter` library in Python.
 ### Libraries Used
 - tkinter
 
+## Project 03: Password Generator
+
+### Description
+The Password Generator project is designed to create strong and random passwords for users. Built using the tkinter library in Python, this application allows users to specify the length and complexity of the generated password.
+
+### Features
+- User-friendly interface with input fields for name, email, username, and password length.
+- Generate Password button to create a random password based on user specifications.
+- Reset button to clear all input fields and generated password output.
+
+### Instructions
+- Enter your name, email, username, and desired password length.
+- Click on the **"Generate Password"** button to create a random password.
+- Use the **"Reset"** button to clear all input fields and generated password.
+
+### Libraries Used
+- tkinter
+- string
+- random
+
 Feel free to explore the code, offer feedback, and learn from the projects I've completed during my CodSoft Python internship. Each project showcases my growth as a programmer and my dedication to mastering Python programming concepts.
 
 Thank you for visiting my repository, and I hope you find these projects insightful and informative. Your feedback is greatly appreciated.
