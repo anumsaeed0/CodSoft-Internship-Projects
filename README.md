@@ -51,6 +51,21 @@ The Password Generator project is designed to create strong and random passwords
 - string
 - random
 
+## Project 04: Weather Forecast Application
+
+### Description:
+The Weather Forecast Application is a user-friendly tool built using the tkinter and requests libraries. This application allows users to obtain real-time weather insights based on the input of a city name or zip code. Leveraging API data, the app retrieves information such as temperature, humidity, and a concise description of the weather conditions.
+
+### Features:
+- Utilized the tkinter library for the graphical user interface.
+- Integrated the requests library to fetch data from a weather API.
+- Enabled users to input a city name or zip code.
+- Displayed accurate and up-to-date temperature, humidity, and weather description.
+
+### Libraries Used:
+- tkinter
+- requests
+
 Feel free to explore the code, offer feedback, and learn from the projects I've completed during my CodSoft Python internship. Each project showcases my growth as a programmer and my dedication to mastering Python programming concepts.
 
 Thank you for visiting my repository, and I hope you find these projects insightful and informative. Your feedback is greatly appreciated.
